@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Rotator</string>
+    <string name="select_folder">Select Folder</string>
+    <string name="no_folder_selected">No folder selected</string>
+    <string name="no_images_found">No images found in this folder</string>
+    <string name="change_folder">Change Folder</string>
+    <string name="rotate">Rotate</string>
+    <string name="select_all">Select All</string>
+    <string name="clear_selection">Clear</string>
+</resources>
